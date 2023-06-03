@@ -20,15 +20,17 @@ Increase the maximum number of rows to display the entire DataFrame.
 ### Developed By:Sivaramakrishnan B
 ### Register Number::212222110044
 import pandas as pd
-df=pd.read_csv("nba.csv")
+df= pd.read_csv("nba.csv")
 print(df.head(10))
 print(df.tail())
-print("Column",len(df.axes[0]))
-print("Rows",len(df.axes[1]))
+print("column",len(df.axes[0]))
+print("rows",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![image](https://github.com/SivaramakrishnanBaskar/Read-from-CSV/assets/119476322/c5b40169-add9-443a-b742-51ff6f00d767)
+![image](https://github.com/SivaramakrishnanBaskar/Read-from-CSV/assets/119476322/fc318083-8776-4372-9f09-2c05000c1a3e)
+
+
 
 ## RESULT:
 Therefore the above code is successfully executed to read a csv file using pandas.
