@@ -2,17 +2,19 @@
 
 ## AIM:
 To write a python program for reading content from a CSV file.
+
 ## ALGORITHM:
 ### Step 1:
-start python.
+Import pandas as pd.
 ### Step 2:
-import pandas.
+Read the CSV file using read_csv method.
 ### Step 3:
-the number of rows returned is defined in pandas option settins
+Use head and tail method to get the required contents from the file.
 ### Step 4:
-read the contents of the CSV file using the df.read function.
+Use len() method to get the number of rows and columns.
 ### Step 5:
-increase the maximum number of rows to display the entire dataframe.
+Print the output.
+
 ## PROGRAM:
 ```
 ### Developed By:Sivaramakrishnan B
