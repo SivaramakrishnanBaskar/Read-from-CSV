@@ -14,7 +14,6 @@ The number of row returned is defined in pandas option settings.
 Check your systems maximun column with the pd.options.display.max_columun statement.
 ### Step 5:
 Increase the maximum number of rows to display the entire DataFrame.
-
 ## PROGRAM:
 ```
 ### Developed By:Sivaramakrishnan B
@@ -26,11 +25,8 @@ print(df.tail())
 print("column",len(df.axes[0]))
 print("rows",len(df.axes[1]))
 ```
-
 ## OUTPUT:
 ![image](https://github.com/SivaramakrishnanBaskar/Read-from-CSV/assets/119476322/fc318083-8776-4372-9f09-2c05000c1a3e)
-
-
 
 ## RESULT:
 Therefore the above code is successfully executed to read a csv file using pandas.
