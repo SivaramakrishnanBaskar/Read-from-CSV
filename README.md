@@ -15,8 +15,8 @@ read the contents of the CSV file using the df.read function.
 increase the maximum number of rows to display the entire dataframe.
 ## PROGRAM:
 ```
-### NAME:Sivaramakrishnan B
-### REGISTER NUMBER:212222110044
+### Developed By:Sivaramakrishnan B
+### Register Number::212222110044
 import pandas as pd
 df=pd.read_csv("nba.csv")
 print(df.head(10))
