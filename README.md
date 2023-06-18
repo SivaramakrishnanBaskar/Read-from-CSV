@@ -37,4 +37,4 @@ print("rows",len(df.axes[1]))
 ![image](https://github.com/SivaramakrishnanBaskar/Read-from-CSV/assets/119476322/9eb458c9-0054-4404-ad13-56fb9dffd265)
 
 ## RESULT:
-Program to read contents from a CSV file.
+Hence the programe to read from the given csv file is executed successfully!
