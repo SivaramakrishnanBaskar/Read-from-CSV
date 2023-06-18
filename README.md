@@ -22,8 +22,10 @@ Using len(df.axes[]) print the toal no.of rows and columns with argument 0 for r
 
 ## PROGRAM:
 ```
-### Developed By:Sivaramakrishnan B
-### Register Number::212222110044
+Program to read contents from a CSV file.
+Developed By:Sivaramakrishnan B
+Register Number::212222110044
+
 import pandas as pd
 df= pd.read_csv("nba.csv")
 print(df.head(10))
