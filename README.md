@@ -37,4 +37,4 @@ print("rows",len(df.axes[1]))
 ![image](https://github.com/SivaramakrishnanBaskar/Read-from-CSV/assets/119476322/9eb458c9-0054-4404-ad13-56fb9dffd265)
 
 ## RESULT:
-Therefore the above code is successfully executed to read a csv file using pandas.
+Program to read contents from a CSV file.
